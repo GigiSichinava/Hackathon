@@ -21,8 +21,8 @@ const TbilisiMap = ({ highlightEvent, showDirections = true }: TbilisiMapProps =
   const [events, setEvents] = useState<any[]>([]);
   const [userLocation, setUserLocation] = useState<[number, number] | null>(null);
   const markers = useRef<mapboxgl.Marker[]>([]);
-  const mapboxToken = 'pk.eyJ1IjoiY2N0c2ciLCJhIjoiY21nd294ZmRtMTNjOTJrczJwNzFrZGF1MCJ9.waMaQH12VZD8plcIcYe9AA';
-
+  const mapboxToken = "YOUR_MAPBOX_TOKEN_HERE"; // Placeholder, not real key
+  
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
 
