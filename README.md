@@ -2,7 +2,7 @@
 
 ## Project info
 
-Public Project URL: find-earn-explore.lovable.app     (უშუალოდ Lovable-ზე გაკეთებული საიტის ლინკი)
+**Link for direct site**: find-earn-explore.lovable.app
 
 **URL**: https://lovable.dev/projects/0676552c-70e4-49d0-b927-c5612a5a05c2  (ედიტორი Lovable-ში)
 
